@@ -29,5 +29,6 @@ um Schritt für Schritt praktische Erfahrung aufzubauen
 Wenn du perfekte Lösungen suchst, bist du hier vielleicht falsch.
 Wenn dich echter Lernprozess, praktische Ansätze und „selbst erarbeiten“ interessieren — dann passt es.
 
-** Bereiche **
+# Bereiche
+
 - [Learning go ](go/index.md)
