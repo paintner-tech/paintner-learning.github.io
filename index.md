@@ -1,3 +1,10 @@
+---
+layout: default
+title: Learning Hub
+---
+
+[Home](/)
+
 Learning Hub
 
 In diesem Bereich dokumentiere ich meinen Weg in die Softwareentwicklung und neue Technologien.
@@ -21,3 +28,6 @@ um Schritt für Schritt praktische Erfahrung aufzubauen
 
 Wenn du perfekte Lösungen suchst, bist du hier vielleicht falsch.
 Wenn dich echter Lernprozess, praktische Ansätze und „selbst erarbeiten“ interessieren — dann passt es.
+
+** Bereiche **
+- [Learning go ](go/index.md)
